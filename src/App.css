@@ -1,0 +1,18 @@
+.img {
+  aspect-ratio: 200/190;
+}
+
+.img2 {
+  object-fit: cover;
+  height: 219px;
+}
+
+.img3 {
+  aspect-ratio: 220/280;
+  height: 90%;
+  z-index: 999;
+}
+
+.img4 {
+  aspect-ratio: 200/200;
+}
